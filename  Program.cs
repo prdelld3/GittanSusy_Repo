@@ -5,7 +5,7 @@ public class Program
 {
     public static void Main()
     {
-        Console.WriteLine("Fuck all ");
+        Console.WriteLine("Hello world");
         
     }
 }
