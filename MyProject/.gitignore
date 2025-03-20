@@ -1,0 +1,62 @@
+# Visual Studio.gitignore
+
+# Build artifacts
+bin/
+obj/
+out/
+
+# Visual Studio Code
+.vscode/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+*.pidb
+*.booproj
+*.svd
+
+# Visual Studio 2019+
+.vs/
+
+# NuGet
+*.nupkg
+packages/
+
+# Entity Framework
+*_MigrationHistory*
+
+# Rider
+.idea/
+
+# Mac OS specific
+.DS_Store
+
+# Windows specific
+Thumbs.db
+
+# Logs
+*.log
+
+# Local databases
+*.mdf
+*.ldf
+*.sqlite
+*.db-shm
+*.db-wal
+
+# Testing
+TestResults/
+
+# Coverage
+coverage/
+*.coverage
+
+# Publish
+publish/
+
+# Resharper
+_ReSharper*/
